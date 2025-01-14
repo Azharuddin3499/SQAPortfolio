@@ -27,4 +27,20 @@ The database includes several interconnected tables to efficiently manage variou
 2. **Insights and Analytics**: Enable data-driven decision-making through comprehensive reports.
 3. **Scalability**: Ensure the database can handle growing amounts of data as the organization expands.
 
+## Operations Performed
+
+### Data Insertion
+- Insert new employee records.
+- Update existing employee information.
+- Delete employee records when no longer needed.
+
+### Data Retrieval
+- Retrieve employee details based on different criteria.
+- List all employees in a specific department.
+- Generate salary reports for different job grades.
+
+### Data Analysis
+- Calculate average salaries by department.
+- Analyze trends in employee hiring and turnover.
+- Generate performance reports based on employee history.
 
