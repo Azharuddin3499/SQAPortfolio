@@ -27,8 +27,4 @@ The database includes several interconnected tables to efficiently manage variou
 2. **Insights and Analytics**: Enable data-driven decision-making through comprehensive reports.
 3. **Scalability**: Ensure the database can handle growing amounts of data as the organization expands.
 
-## Setup
 
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/Azharuddin3499/SQAPortfolio/tree/main/HR%20Database%20Project
